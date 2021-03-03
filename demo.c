@@ -1,5 +1,7 @@
 #include<stdio.h>
-int main()
+
+int main(int argc, char const *argv[])
 {
-  printf("github.com")
+    printf("github.com");
+    return 0;
 }
