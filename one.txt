@@ -2,3 +2,4 @@ hello world
 hello shiyanlou
 这一行是在 GitHub 页面上修改的哈~
 welcome to git
+will add foo function into demo.c
